@@ -1,4 +1,4 @@
-# Control Monoprice HDMI Switch Model 4067 (HRM-2218F) via RS-232
+# Control Monoprice HDMI Switch #4067 via RS-232
 
 ## MOTIVATION
 
@@ -67,6 +67,6 @@ that input is not currently active, for example:
  - **-v**<br>
   Enable verbose output
 
-## License
-This program is licensed under the
+## LICENSE
+This software is licensed under the
 [MIT License](https://opensource.org/licenses/MIT).
